@@ -6,7 +6,7 @@ const BottomCard = () => {
             <div className='text text-[15px] text-softBlue flex items-center'> 
             <div className='bg-avatar bg-cover border-[1px] border-white rounded-full h-[35px] w-[35px] mr-4'></div>
             Creation of 
-            <span className='text-white ml-1 transition-[1s] hover:text-cyan'>Jules Wyvern</span>
+            <button className='text-white ml-1 transition-[1s] hover:text-cyan'>Jules Wyvern</button>
             </div>
         </div>
     );
